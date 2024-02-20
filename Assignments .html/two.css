@@ -1,0 +1,9 @@
+.divider{
+    height:200px;
+    width:5px;
+ background-color: black;
+ display: inline block;
+}
+.line{
+    text-align: center;
+}
